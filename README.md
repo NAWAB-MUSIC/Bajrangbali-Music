@@ -23,7 +23,7 @@
   <img src="https://files.catbox.moe/e5c5dr.jpg">
 </p>
 
-**𝐌𝐘 𝐁𝐎𝐓 ➣ [❛-𝐑α∂нα᭄ [🚩] Ɽoboʈ 🎸](https://t.me/nawabXDmusic_bot)**
+**𝐌𝐘 𝐁𝐎𝐓 ➣ [❛-nawab [🚩] Ɽoboʈ 🎸](https://t.me/nawabXDmusic_bot)**
 
 
 
@@ -34,6 +34,6 @@
     ─「 𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔 」─
 </h3>
 
-<p align="center"><a href="https://github.com/NAWAB-MUSIC/Bajrangbali-Music/tree/master"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/NAWAB-MUSIC/Bajrangbali"-Music/tree/master"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
