@@ -31,11 +31,11 @@ SONG_DOWNLOAD_DURATION = int(
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 
 # A name for your Music bot,𝐀𝐥𝐥 𝐃𝐞𝐬𝐢𝐠𝐧 𝐍𝐚𝐦𝐞 𝐒𝐮𝐩𝐩𝐨𝐫𝐭𝐞𝐝.
-MUSIC_BOT_NAME = "𝐑𝐀𝐃𝐇𝐀 ダ 𝐌𝐔𝐒𝐈𝐂"
+MUSIC_BOT_NAME = "𝐍𝐀𝐖𝐀𝐁 ダ 𝐌𝐔𝐒𝐈𝐂"
 
 # Your User ID.
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "6402115032").split())
+    map(int, getenv("OWNER_ID", "7532349847").split())
 )  # Input type must be interger
 
 GROUP_USERNAME = getenv("GROUP_USERNAME")
@@ -56,7 +56,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/SARKAROP123/Tksowner",
+    "https://github.com/NAWAB-MUSIC/Bajrangbali-Music/edit/master/config.py",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
@@ -64,8 +64,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Only  Links formats are  accepted for this Var value.
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL","https://t.me/TKS_JOIN")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/TKS_JOIN")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL","https://t.me/ll_NAWAB_ZADA_llO")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/+HoQ5q5EazqZlM2U1")
 SUPPORT_HEHE = SUPPORT_GROUP
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", None)
